@@ -182,7 +182,6 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -198,7 +197,7 @@ ul#nav li.current a { color: #fe6928; }
 }
 #about p {
    line-height: 30px;
-   color: #ccc;
+   color: #fff;
 }
 #about .profile-pic {
    position: relative;
@@ -231,7 +230,6 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -244,26 +242,30 @@ ul#nav li.current a { color: #fe6928; }
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
+   color: #fff;
 }
 #resume h1 span {
    border-bottom: 3px solid #0762f9;
    padding-bottom: 6px;
+   color: #fff;
 }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
+   color: #fff;
 }
 
 #resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+#resume .main-col { padding-right: 10%; color: #fff;}
 
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
+   color: #fff;
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: #fff;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -293,13 +295,12 @@ ul#nav li.current a { color: #fe6928; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #333;
   	height: 42px;
-  	border-radius: 0px;
+   border-radius: 0px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: #fff;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -412,7 +413,6 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -464,7 +464,6 @@ ul#nav li.current a { color: #fe6928; }
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;
-   color: #fff;
    height: 30px;
    width: 30px;
    font-size: 18px;
@@ -1017,7 +1016,7 @@ footer .social-links li:first-child { margin-left: 0; }
    margin-right: 15px;
 }
 .project-btn{
-   background-color: #2867b2 !important;
+   background-color: #1abc9c !important;
 }
 .github-btn{
    background-color: #34495e !important;
