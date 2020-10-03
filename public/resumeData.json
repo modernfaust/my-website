@@ -3,7 +3,7 @@
     "name":"Edward Lee",
     "description":"Python & JavaScript developer",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Full-stack Developer that loves games and interactive media",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "edward.l1245@hotmail.com",
     "phone": "647-654-9889",
@@ -44,33 +44,39 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here's what I use",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Ryerson University",
+        "degree":"Computer Science & Data Analytics",
+        "graduated":"Present",
+        "description":""
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Brock University",
+        "degree":"Accounting",
+        "graduated":"October 2018",
+        "description":"Accounting, Financial Analysis, Economics & Statistics"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Single Mothers in Progress",
+        "title":"Full Stack Developer",
+        "years":"Present",
+        "description":""
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Broadridge",
+        "title":"Data Administrator",
+        "years":"2020",
+        "description":"Wrote VBA scripts to automate report generation & data collection, researched APIs to understand legacy code"
+      },
+      {
+        "company":"Guidehouse",
+        "title":"Management Consultant",
+        "years":"2018-2019",
+        "description":"Managed clients in the AML industry, drafted project budgets & technical documentation, drafted reports for risk assessment & statistical analysis"
       }
     ],
     "skills":[
